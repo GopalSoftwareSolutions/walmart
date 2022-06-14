@@ -1,0 +1,5 @@
+read -p "please enter the user name: "user name
+read -p "please enter the password: "password
+
+echo "the user name which you have typed is: "$username
+echo "the user password which you have typed is: "$password
